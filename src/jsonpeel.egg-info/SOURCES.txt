@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/jsonpeel/__init__.py
+src/jsonpeel/__main__.py
+src/jsonpeel/cli.py
+src/jsonpeel/core.py
+src/jsonpeel/errors.py
+src/jsonpeel.egg-info/PKG-INFO
+src/jsonpeel.egg-info/SOURCES.txt
+src/jsonpeel.egg-info/dependency_links.txt
+src/jsonpeel.egg-info/entry_points.txt
+src/jsonpeel.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_core.py
